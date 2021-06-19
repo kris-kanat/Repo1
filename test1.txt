@@ -1,10 +1,1 @@
- Volume in drive F is New Volume
- Volume Serial Number is 546A-5601
-
- Directory of F:\MyProject
-
-06/19/2021  03:42 PM    <DIR>          .
-06/19/2021  03:42 PM    <DIR>          ..
-06/19/2021  03:42 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  676,750,364,672 bytes free
+Change1
